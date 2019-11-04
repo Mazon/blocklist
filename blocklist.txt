@@ -16,3 +16,4 @@ amp.namequery.com
 ps.absolute.com
 ctm.server.absolute.com
 bh.namequery.com
+trace.svc.ui.com
